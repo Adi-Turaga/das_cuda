@@ -1,0 +1,3 @@
+NAIVE: 1.940 [ms]
+NAIVE (FAST MATH): 0.992 [ms]
+FNUM_RESTRICT: 1.594 [ms]

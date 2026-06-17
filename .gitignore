@@ -1,5 +1,5 @@
-*.txt
-!requirements.txt
+#*.txt
+#!requirements.txt
 kernel_cache/*
 *.uff
 __pycache__
